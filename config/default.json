@@ -1,0 +1,11 @@
+{
+  "max_pages": 500,
+  "max_depth": 6,
+  "same_domain_only": true,
+  "respect_robots": true,
+  "default_delay_seconds": 1.5,
+  "timeout_seconds": 20,
+  "user_agent": "GenericShopScraper/1.0 (+contact: local)",
+  "browser_fallback": false,
+  "db_path": "data/products.db"
+}
