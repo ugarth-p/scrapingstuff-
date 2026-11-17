@@ -4,7 +4,7 @@
 10 câbles connecteurs mâle-mâle 20cm,150.0,out_of_stock,655,esp32lab.com,https://esp32lab.com/boutique/cable-connecteur-male-male-20cm/
 A9 GSM/GPRS,1800.0,out_of_stock,1546,esp32lab.com,https://esp32lab.com/boutique/a9-module-gsm-gprs/
 ACS712 30A Module capteur de courant,600.0,out_of_stock,4744,esp32lab.com,https://esp32lab.com/boutique/acs712-30a-module-capteur-de-courant/
-AHT20 + BMP280 Capteur de température d’humidité et de pression,500.0,out_of_stock,859,esp32lab.com,https://esp32lab.com/boutique/aht20-bmp280-capteur-de-temperature-dhumidite-et-de-pression-atmospherique/
+AHT20 + BMP280  Capteur de température d’humidité et de pression,500.0,out_of_stock,859,esp32lab.com,https://esp32lab.com/boutique/aht20-bmp280-capteur-de-temperature-dhumidite-et-de-pression-atmospherique/
 AHT30 capteur de température et d’humidité,500.0,in_stock,1563,esp32lab.com,https://esp32lab.com/boutique/aht30-capteur-de-temperature-et-dhumidite/
 ATGM336H module GNSS/GPS,1500.0,out_of_stock,1272,esp32lab.com,https://esp32lab.com/boutique/atgm336h-module-gps/
 Adaptateur micro-HDMI/HDMI,350.0,in_stock,1584,esp32lab.com,https://esp32lab.com/boutique/adaptateur-micro-hdmi-hdmi/
@@ -17,10 +17,10 @@ Arduino NANO V3.0 Type-C (compatible),950.0,out_of_stock,943,esp32lab.com,https:
 Arduino Pro Micro (compatible),1500.0,in_stock,1129,esp32lab.com,https://esp32lab.com/boutique/arduino-pro-micro-atmega32u4-avec-type-c/
 Arduino UNO R3 Type-C (compatible),1300.0,out_of_stock,36,esp32lab.com,https://esp32lab.com/boutique/arduino-uno-r3-cable-usb/
 BH1750 capteur de luminosité,600.0,out_of_stock,214,esp32lab.com,https://esp32lab.com/boutique/capteur-de-luminosite-gy-302/
-BME280 capteur numérique de température d'humidité et de pression,1000.0,in_stock,2012,esp32lab.com,https://esp32lab.com/boutique/bme280-capteur-numerique-de-temperature-dhumidite-et-de-pression/
+BME280 capteur numérique de température d&rsquo;humidité et de pression,1000.0,in_stock,2012,esp32lab.com,https://esp32lab.com/boutique/bme280-capteur-numerique-de-temperature-dhumidite-et-de-pression/
 BSide ZT301 multimètre numérique,6500.0,out_of_stock,2220,esp32lab.com,https://esp32lab.com/boutique/bside-zt301-multimetre-numerique-t1101/
 Badge de proximité RFID pour lecteurs RFID 125kHz,100.0,out_of_stock,2674,esp32lab.com,https://esp32lab.com/boutique/badge-de-proximite-rfid-pour-lecteurs-rfid125khz/
-Bande de connecteur 1x40 mâle 2.54mm,30.0,out_of_stock,527,esp32lab.com,https://esp32lab.com/boutique/bande-de-connecteur-1x40-male-2-54mm/
+Bande de connecteur 1&#215;40 mâle 2.54mm,30.0,out_of_stock,527,esp32lab.com,https://esp32lab.com/boutique/bande-de-connecteur-1x40-male-2-54mm/
 Bande de connecteur 1×40 femelle 2.54mm,50.0,out_of_stock,1991,esp32lab.com,https://esp32lab.com/boutique/bande-de-connecteur-1x40-femelle-2-54mm/
 Boitier pour Raspberry Pi 4 Model B (Rouge/Blanc) avec ventilateur,1400.0,out_of_stock,2443,esp32lab.com,https://esp32lab.com/boutique/boitier-pour-raspberry-pi-4-model-b-rouge-blanc-avec-ventilateur/
 Boitier pour Raspberry Pi ZERO 2W (Rouge/Blanc),850.0,out_of_stock,2448,esp32lab.com,https://esp32lab.com/boutique/boitier-pour-raspberry-pi-zero-2w-rouge-blanc/
@@ -30,30 +30,34 @@ Buzzer actif 5V,90.0,in_stock,2687,esp32lab.com,https://esp32lab.com/boutique/bu
 Buzzer passif 2KHz,50.0,in_stock,2373,esp32lab.com,https://esp32lab.com/boutique/buzzer-passif/
 "CH340NC – Module convertisseur USB vers UART TTL (5 V / 3,3 V)",500.0,in_stock,4024,esp32lab.com,https://esp32lab.com/boutique/ch340nc-module-convertisseur-usb-vers-uart-ttl-5-v-33-v/
 CH340n convertisseur USB-UART,450.0,out_of_stock,392,esp32lab.com,https://esp32lab.com/boutique/ch340n-convertisseur-usb-uart/
-Capteur capacitif d'humidité du sol V1.2,650.0,in_stock,2278,esp32lab.com,https://esp32lab.com/boutique/capteur-capacitif-dhumidite-du-sol-v1-2/
+Capteur capacitif d&rsquo;humidité du sol V1.2,650.0,in_stock,2278,esp32lab.com,https://esp32lab.com/boutique/capteur-capacitif-dhumidite-du-sol-v1-2/
 Capteur de couleur TCS34725,850.0,in_stock,3349,esp32lab.com,https://esp32lab.com/boutique/capteur-de-couleur-tcs34725-2/
 Capteur de flamme,300.0,in_stock,1376,esp32lab.com,https://esp32lab.com/boutique/capteur-de-flamme/
 Capteur de mouvement PIR HC-SR501,500.0,in_stock,555,esp32lab.com,https://esp32lab.com/boutique/capteur-de-mouvement-pir-hc-sr501/
 Capteur de proximité infrarouge KY-032A,400.0,in_stock,4754,esp32lab.com,https://esp32lab.com/boutique/capteur-de-proximite-infrarouge-ky-032a/
 Capteur à effet Hall A3144,40.0,in_stock,362,esp32lab.com,https://esp32lab.com/boutique/capteur-a-effet-hall-a3144/
+Carte de prototypage perforé double face 5x7cm,250.0,out_of_stock,3113,esp32lab.com,https://esp32lab.com/boutique/carte-de-prototypage-perfore-double-face-5x7cm/
 Chargeur LiPo USB-C TP4056,100.0,in_stock,1391,esp32lab.com,https://esp32lab.com/boutique/chargeur-lipo-usb-c-tp4056/
 Chargeur de batterie Li BQ25606,500.0,out_of_stock,3617,esp32lab.com,https://esp32lab.com/boutique/chargeur-de-batterie-li-bq25606/
 Chargeur de batterie TP4056 avec convertisseur élévateur 4.2-28V,450.0,out_of_stock,2284,esp32lab.com,https://esp32lab.com/boutique/chargeur-de-batterie-tp4056-avec-convertisseur-elevateur-4-2-28v/
 Chargeur de batterie USB avec convertisseur élévateur 5V/2.4A,450.0,in_stock,2853,esp32lab.com,https://esp32lab.com/boutique/chargeur-de-batterie-usb-avec-convertisseur-elevateur-5v-2-4a/
 Connecteur USB Type C femelle avec pcb,70.0,out_of_stock,2036,esp32lab.com,https://esp32lab.com/boutique/connecteur-usb-type-c-femelle-avec-pcb/
-DHT11 capteur de température et d'humidité,500.0,in_stock,576,esp32lab.com,https://esp32lab.com/boutique/dht11-capteur-de-temperature-et-dhumidite/
+D1 mini (ESP8266),800.0,out_of_stock,27,esp32lab.com,https://esp32lab.com/boutique/d1-mini-v3-esp8266/
+DHT11 capteur de température et d&rsquo;humidité,500.0,in_stock,576,esp32lab.com,https://esp32lab.com/boutique/dht11-capteur-de-temperature-et-dhumidite/
 DS1307 RTC,350.0,in_stock,406,esp32lab.com,https://esp32lab.com/boutique/ds1307-rtc/
 Décodeur Audio stéréo DAC 1334,1000.0,in_stock,480,esp32lab.com,https://esp32lab.com/boutique/decodeur-audio-stereo-dac-1334/
 ESP32 C3 Pro mini,1000.0,in_stock,4035,esp32lab.com,https://esp32lab.com/boutique/esp32-c3-pro-mini/
+ESP32 C3 SuperMini,900.0,out_of_stock,2002,esp32lab.com,https://esp32lab.com/boutique/esp32-c3-supermini/
 ESP32 C6 Supermini,1400.0,in_stock,3209,esp32lab.com,https://esp32lab.com/boutique/esp32-c6-supermini/
+ESP32 CAM (compatible) avec support de programmation USB,1900.0,out_of_stock,183,esp32lab.com,https://esp32lab.com/boutique/esp32-cam-avec-carte-usb/
 ESP32 DevKitC V4,1500.0,in_stock,188,esp32lab.com,https://esp32lab.com/boutique/esp32-devkitc-v4/
 ESP32 P4 Pico,5000.0,in_stock,4154,esp32lab.com,https://esp32lab.com/boutique/esp32-p4-pico/
 ESP32-S3 DevKitC-1,1700.0,in_stock,3658,esp32lab.com,https://esp32lab.com/boutique/esp32-s3-devkitc-1/
 Ecran LCD 1602 I2C,800.0,out_of_stock,1478,esp32lab.com,https://esp32lab.com/boutique/ecran-lcd-1602-i2c/
 Ecran TFT 1.8″,850.0,out_of_stock,452,esp32lab.com,https://esp32lab.com/boutique/ecran-tft-1-8%e2%80%b3/
 Ecran TFT 1.8″ couleur 128 X 160,800.0,out_of_stock,3746,esp32lab.com,https://esp32lab.com/boutique/ecran-tft-1-8%e2%80%b3-couleur-128-x-160/
-"Ecran TFT 2.4"" tactile",1900.0,out_of_stock,234,esp32lab.com,https://esp32lab.com/boutique/ecran-tft-tactile-2-4/
-"Ecran TFT 2.8"" tactile",2100.0,out_of_stock,1224,esp32lab.com,https://esp32lab.com/boutique/ecran-tft-tactile-2-8/
+Ecran TFT 2.4&Prime; tactile,1900.0,out_of_stock,234,esp32lab.com,https://esp32lab.com/boutique/ecran-tft-tactile-2-4/
+Ecran TFT 2.8&Prime; tactile,2100.0,out_of_stock,1224,esp32lab.com,https://esp32lab.com/boutique/ecran-tft-tactile-2-8/
 Esp32 S2 mini,900.0,out_of_stock,265,esp32lab.com,https://esp32lab.com/boutique/esp32-s2-mini/
 Esp32 S3 CAM,2200.0,out_of_stock,3062,esp32lab.com,https://esp32lab.com/boutique/esp32-s3-cam/
 FT232RL module convertisseur USB-UART,550.0,out_of_stock,1954,esp32lab.com,https://esp32lab.com/boutique/ft232rl-module-convertisseur-usb-uart/
@@ -88,11 +92,12 @@ Module relais 5V 1 canal,450.0,in_stock,2098,esp32lab.com,https://esp32lab.com/b
 Module relais 5V 1 canal avec borniers,450.0,in_stock,1134,esp32lab.com,https://esp32lab.com/boutique/module-relais-5v-1-canal-avec-borniers/
 Module relais 5V 2 canaux avec borniers,700.0,out_of_stock,1135,esp32lab.com,https://esp32lab.com/boutique/module-relais-5v-2-canaux-avec-borniers/
 Module relais 5V 4 canaux,1200.0,in_stock,2581,esp32lab.com,https://esp32lab.com/boutique/module-relais-5v-4-canaux/
-Module relais 5V 4 canaux avec borniers,1200.0,out_of_stock,458,esp32lab.com,https://esp32lab.com/boutique/module-relais-5v-4-canaux-borniers/
+Module relais 5V 4 canaux  avec borniers,1200.0,out_of_stock,458,esp32lab.com,https://esp32lab.com/boutique/module-relais-5v-4-canaux-borniers/
 Moteur pas à pas 28BYJ-48-5V,1000.0,out_of_stock,473,esp32lab.com,https://esp32lab.com/boutique/moteur-pas-a-pas-28byj-48-5v/
 NEO-6M module GPS,1200.0,out_of_stock,449,esp32lab.com,https://esp32lab.com/boutique/neo-6m-module-gps/
+NodeMCU V3 (ESP8266),800.0,out_of_stock,1067,esp32lab.com,https://esp32lab.com/boutique/nodemcu-v3-esp8266/
 PAM8403 amplificateur audio numérique avec potentiomètre,400.0,in_stock,1346,esp32lab.com,https://esp32lab.com/boutique/pam8403-amplificateur-audio-numerique-avec-potentiometre/
-PCF8575 Module d'extension I2C à 16IO,500.0,in_stock,1996,esp32lab.com,https://esp32lab.com/boutique/pcf8575-module-dextension-i2c-a-16io/
+PCF8575 Module d&rsquo;extension I2C à 16IO,500.0,in_stock,1996,esp32lab.com,https://esp32lab.com/boutique/pcf8575-module-dextension-i2c-a-16io/
 Plaque d’essai 400 points,500.0,in_stock,1026,esp32lab.com,https://esp32lab.com/boutique/plaque-dessai-400-points/
 Plaque d’essai 800 points,700.0,in_stock,2577,esp32lab.com,https://esp32lab.com/boutique/plaque-dessai-800-points/
 RP2040 Wifi,1400.0,in_stock,3531,esp32lab.com,https://esp32lab.com/boutique/rp2040-wifi/
@@ -100,7 +105,7 @@ RP2040 Zero (compatible),900.0,in_stock,1098,esp32lab.com,https://esp32lab.com/b
 RP2350 PICO2,1800.0,out_of_stock,4649,esp32lab.com,https://esp32lab.com/boutique/rp2350-pico2/
 Raspberry Pi 4 model B 4Go,20000.0,out_of_stock,1414,esp32lab.com,https://esp32lab.com/boutique/raspberry-pi-4-model-b-4-go/
 Raspberry Pi 4 model B 8Go,25000.0,out_of_stock,2850,esp32lab.com,https://esp32lab.com/boutique/raspberry-pi-4-model-b-8go/
-Raspberry Pi 5 - 4Go,27000.0,out_of_stock,3909,esp32lab.com,https://esp32lab.com/boutique/raspberry-pi-5-model-b-4go/
+Raspberry Pi 5 &#8211; 4Go,27000.0,out_of_stock,3909,esp32lab.com,https://esp32lab.com/boutique/raspberry-pi-5-model-b-4go/
 Raspberry Pi Pico,1800.0,in_stock,3877,esp32lab.com,https://esp32lab.com/boutique/raspberry-pi-pico-compatible/
 Raspberry Pi Pico (compatible),1000.0,in_stock,38,esp32lab.com,https://esp32lab.com/boutique/raspberry-pi-pico/
 Raspberry Pi Pico W,2800.0,in_stock,696,esp32lab.com,https://esp32lab.com/boutique/raspberry-pi-pico-w/
@@ -115,9 +120,10 @@ Sim800L module GPRS/GSM,1200.0,out_of_stock,445,esp32lab.com,https://esp32lab.co
 UNI-T UT60S multimètre intelligent numérique,11000.0,out_of_stock,2600,esp32lab.com,https://esp32lab.com/boutique/uni-t-ut60s-multimetre-intelligent-numerique/
 UP Squared V2 – Intel® Celeron® N6210 | 2 Go RAM | 32 Go eMMC,31000.0,in_stock,4578,esp32lab.com,https://esp32lab.com/boutique/up-squared-v2-intel-celeron-n6210-2-go-ram-32-go-emmc/
 VL53L0X V2 capteur de distance laser,600.0,in_stock,3355,esp32lab.com,https://esp32lab.com/boutique/vl53l0x-v2-capteur-de-distance-laser/
+"Waveshare ESP32-S3-LCD-1.47B – Carte de Développement Wi-Fi &#038; Bluetooth avec Écran IPS 1,47&Prime;",5500.0,out_of_stock,4542,esp32lab.com,https://esp32lab.com/boutique/waveshare-esp32-s3-lcd-1-47b-carte-de-developpement-wi-fi-bluetooth-avec-ecran-ips-147/
 Waveshare RP2350A USB,3000.0,in_stock,4715,esp32lab.com,https://esp32lab.com/boutique/waveshare-rp2350a-usb/
 WeActStudio Bluepill Plus STM32F103CBT6,1200.0,in_stock,3690,esp32lab.com,https://esp32lab.com/boutique/weactstudio-bluepill-plus-stm32f103cbt6/
 YD-ESP32-S3 N16R8,1800.0,out_of_stock,524,esp32lab.com,https://esp32lab.com/boutique/esp32-s3-n16r8-yd/
 rda5807m récepteur radio FM,350.0,out_of_stock,270,esp32lab.com,https://esp32lab.com/boutique/rda5807m-recepteur-radio-fm/
-"Écran OLED 0.96"" I2C",750.0,out_of_stock,45,esp32lab.com,https://esp32lab.com/boutique/ecran-oled-0-96-i2c/
+Écran OLED 0.96&Prime; I2C,750.0,out_of_stock,45,esp32lab.com,https://esp32lab.com/boutique/ecran-oled-0-96-i2c/
 Écran TFT IPS 1.5″ 240×240,900.0,out_of_stock,1492,esp32lab.com,https://esp32lab.com/boutique/ecran-tft-ips-1-5%e2%80%b3-240x240/
